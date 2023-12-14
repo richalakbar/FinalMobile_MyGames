@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="neutral_5">#F5F5FA</color>
+    <color name="neutral_20">#D5D5E3</color>
+    <color name="neutral_30">#B8B8C7</color>
+    <color name="neutral_50">#9292A2</color>
+    <color name="neutral_60">#6A6A8B</color>
+
+    <color name="primary_40">#9D52C1</color>
+    <color name="primary_50">#6C2498</color>
+
+    <color name="accent_50">#F77A55</color>
+</resources>

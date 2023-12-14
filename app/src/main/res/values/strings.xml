@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGames</string>
+    <string name="title_browse_games">Browse your favorite games here</string>
+    <string name="title_search_games">Search games</string>
+    <string name="title_favorites_games">Favourites games</string>
+    <string name="label_game_title">Game Title</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="label_no_data_found">No data found!</string>
+    <string name="label_what_games_are_you_looking_for">What games are you looking for?</string>
+    <string name="label_description">Description</string>
+</resources>
